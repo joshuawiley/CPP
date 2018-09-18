@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1535045436 source:c:\users\joshuaw1\documents\github\c++\day_4\queue.cpp
+	"queue.h"
+
+1535045517 c:\users\joshuaw1\documents\github\c++\day_4\queue.h
+	<iostream>
+
+1535045644 source:c:\users\joshuaw1\documents\github\c++\day_4\main.cpp
+
+1535053257 source:c:\users\joshuaw1\documents\github\c++\day_4\exception_handling.cpp
+
+1535060521 source:c:\users\joshuaw1\documents\github\c++\day_4\dynamic_casting.cpp
+
+1535060475 source:c:\users\joshuaw1\documents\github\c++\day_4\extern_test_cpp.cpp
+	<iostream>
+	"extern_test_c.h"
+
+1535060243 c:\users\joshuaw1\documents\github\c++\day_4\extern_test_c.h
+
+1535060501 source:c:\users\joshuaw1\documents\github\c++\day_4\extern_test_c.c
+	"extern_test_c.h"
+
