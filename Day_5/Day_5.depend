@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1535122286 source:c:\users\joshuaw1\documents\github\c++\day_5\linearsearch.cpp
+
+1535127100 source:c:\users\joshuaw1\documents\github\c++\day_5\binarysearch.cpp
+
+1535139477 source:c:\users\joshuaw1\documents\github\c++\day_5\file_handling.cpp
+
+1535143576 source:c:\users\joshuaw1\documents\github\c++\day_5\copy.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
