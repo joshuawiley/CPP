@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1534798332 source:c:\users\joshuaw1\documents\github\c++\day_1\employee.cpp
+	<string>
+	<iostream>
+	<stdlib.h>
+
+1534784954 source:c:\users\joshuaw1\documents\github\c++\day_1\scope.cpp
+	<iostream>
+
+1534786927 source:c:\users\joshuaw1\documents\github\c++\day_1\override_functions.cpp
+
+1534800760 source:c:\users\joshuaw1\documents\github\c++\day_1\new_delete.cpp
+
+1534800750 source:c:\users\joshuaw1\documents\github\c++\day_1\inline_macro.cpp
+	<iostream>
+
