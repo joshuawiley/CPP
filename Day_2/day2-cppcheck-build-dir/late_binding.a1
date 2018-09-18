@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<analyzerinfo checksum="3346996829">
+        <error id="missingOverride" severity="style" msg="The function &apos;show&apos; overrides a function in a base class but is not marked with a &apos;override&apos; specifier." verbose="The function &apos;show&apos; overrides a function in a base class but is not marked with a &apos;override&apos; specifier.">
+            <location file0="C:\Users\joshuaw1\Documents\Github\C++\Day_2\late_binding.cpp" file="C:\Users\joshuaw1\Documents\Github\C++\Day_2\late_binding.cpp" line="26" info="Function in derived class"/>
+            <location file0="C:\Users\joshuaw1\Documents\Github\C++\Day_2\late_binding.cpp" file="C:\Users\joshuaw1\Documents\Github\C++\Day_2\late_binding.cpp" line="13" info="Virtual function in base class"/>
+            <symbol>show</symbol>
+        </error>
+  <FileInfo check="CheckUnusedFunctions">
+    <functiondecl functionName="show" lineNumber="13"/>
+    <functiondecl functionName="show" lineNumber="26"/>
+    <functiondecl functionName="main" lineNumber="33"/>
+    <functioncall functionName="c2"/>
+    <functioncall functionName="c3"/>
+    <functioncall functionName="show"/>
+  </FileInfo>
+</analyzerinfo>
